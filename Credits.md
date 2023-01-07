@@ -31,3 +31,37 @@ p-on/pigeon for CMD-X: https://github.com/p-on
 fate/fatesc for Fate's Admin: https://github.com/fatesc
 
 Syntaxx64/Muhammad-MM for HomebrewAdmin: https://github.com/Muhammad-MM
+
+Desty for Catalyst Hub: github.com/destylol
+
+Muhammad6196 for Project WD: github.com/Muhammad6196
+
+Zeerox/RunDTM for Zeerox Hub: github.com/RunDTM
+
+Wanz#1594 for BlackTrap: Wanz#1594
+
+L1ZOT for Project Meow and Mango Hub: github.com/L1ZOT
+
+Schervi for Floppa Hub: github.com/Schervi
+
+DestyXyz for Master Hub: github.com/DestyXyz
+
+Pepsi/PepsiedLua for PETSI-X: roblox.com/users/818731954/profile/
+
+Corript/Corrupt2625 for Vellerius: github.com/Corrupt2625
+
+xQuartyx for Mukuro Hub: github.com/xDepressionx or github.com/xQuartyx
+
+JJTChannel for Alucard Gui: github.com/JJTChannel
+
+xDestinyx for Ripper Hub V3: github.com/xDestinyx
+
+acsu123 for HoHo Hub: github.com/acsu123
+
+VEZ2 for Neva Hub: github.com/VEZ2
+
+RimuruScripter for Zama Hub: github.com/RimuruScripter
+
+Cve-Hub for Lunar Hub: github.com/Cve-Hub
+
+If you have any complaints please contact me on Discord: ItsHidro#1876
