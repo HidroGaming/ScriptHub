@@ -32,36 +32,36 @@ fate/fatesc for Fate's Admin: https://github.com/fatesc
 
 Syntaxx64/Muhammad-MM for HomebrewAdmin: https://github.com/Muhammad-MM
 
-Desty for Catalyst Hub: github.com/destylol
+Desty for Catalyst Hub: https://github.com/destylol
 
-Muhammad6196 for Project WD: github.com/Muhammad6196
+Muhammad6196 for Project WD: https://github.com/Muhammad6196
 
-Zeerox/RunDTM for Zeerox Hub: github.com/RunDTM
+Zeerox/RunDTM for Zeerox Hub: https://github.com/RunDTM
 
 Wanz#1594 for BlackTrap: Wanz#1594
 
-L1ZOT for Project Meow and Mango Hub: github.com/L1ZOT
+L1ZOT for Project Meow and Mango Hub: https://github.com/L1ZOT
 
-Schervi for Floppa Hub: github.com/Schervi
+Schervi for Floppa Hub: https://github.com/Schervi
 
-DestyXyz for Master Hub: github.com/DestyXyz
+DestyXyz for Master Hub: https://github.com/DestyXyz
 
-Pepsi/PepsiedLua for PETSI-X: roblox.com/users/818731954/profile/
+Pepsi/PepsiedLua for PETSI-X: https://roblox.com/users/818731954/profile/
 
-Corript/Corrupt2625 for Vellerius: github.com/Corrupt2625
+Corript/Corrupt2625 for Vellerius: https://github.com/Corrupt2625
 
-xQuartyx for Mukuro Hub: github.com/xDepressionx or github.com/xQuartyx
+xQuartyx for Mukuro Hub: https://github.com/xDepressionx or https://github.com/xQuartyx
 
-JJTChannel for Alucard Gui: github.com/JJTChannel
+JJTChannel for Alucard Gui: https://github.com/JJTChannel
 
-xDestinyx for Ripper Hub V3: github.com/xDestinyx
+xDestinyx for Ripper Hub V3: https://github.com/xDestinyx
 
-acsu123 for HoHo Hub: github.com/acsu123
+acsu123 for HoHo Hub: https://github.com/acsu123
 
-VEZ2 for Neva Hub: github.com/VEZ2
+VEZ2 for Neva Hub: https://github.com/VEZ2
 
-RimuruScripter for Zama Hub: github.com/RimuruScripter
+RimuruScripter for Zama Hub: https://github.com/RimuruScripter
 
-Cve-Hub for Lunar Hub: github.com/Cve-Hub
+Cve-Hub for Lunar Hub: https://github.com/Cve-Hub
 
 If you have any complaints please contact me on Discord: ItsHidro#1876
