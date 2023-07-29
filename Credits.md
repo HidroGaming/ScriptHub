@@ -6,7 +6,7 @@ BloodyBurns/Kax for IV Admin: https://github.com/BloodyBurns
 
 thedragonslayer2 for Untitled Attack On Titan Script: https://thedragonslayer2.github.io
 
-Lucasfin000 for Space Hub: https://script.orbituniverse.com
+Lucasfin000 for Space Hub: https://script.orbituniverse.com or https://store.orbituniverse.com
 
 Moon and Courtney for Dex Explorer V4: https://v3rmillion.net/member.php?action=profile&uid=47 and couldnt find Courtney
 
